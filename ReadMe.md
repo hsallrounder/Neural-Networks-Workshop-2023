@@ -7,6 +7,10 @@ https://towardsdatascience.com/gridsearchcv-or-randomsearchcv-5aa4acf5348c
 
 https://towardsdatascience.com/most-effective-way-to-implement-radial-basis-function-neural-network-for-classification-problem-33c467803319
 
+#Train Model online by giving raw input
+
+https://teachablemachine.withgoogle.com/
+
 #CNN
 
 https://towardsdatascience.com/understanding-and-calculating-the-number-of-parameters-in-convolution-neural-networks-cnns-fc88790d530d
